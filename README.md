@@ -1,0 +1,1 @@
+Read the full artice here: [TailwindCSS V2 - How To Enable Dark Mode Using Class Mode](https://saleem.dev/blog/tailwindcss-v2-enable-dark-mode-using-class/)
